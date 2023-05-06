@@ -1,7 +1,4 @@
 # Rates of Competitive Success in High School Debate Between Private and Public Schools
-Final Project for Gov 50: Quantitative Social Sciences 
-
-
 
 ## **Introduction:**  
 The question we wanted to answer with our project was, what is the difference in competitive success between private and public schools in high school debate? There is a huge disparity in the number of resources offered to students at public and private schools. We think that comparing the competitive outcomes between these two groups could give policy makers key insight about resource disparities and educational inequality. Our hypothesis is that Private schools have statistically significant higher rates of competitive success in high school debate than public schools. This means that we should see debaters from private schools receiving higher speaker scores and z-scores than debaters from public schools.  
