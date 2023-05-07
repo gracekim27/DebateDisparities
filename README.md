@@ -10,4 +10,4 @@ The question we wanted to answer with our project was, what is the difference in
 
 
 
-* Edit 05/06/2023: * Code for webscraping Berkeley was changed since the start of the project. This is because the original website split the data table into 3. The new code scrapes all 3 tables and combines/cleans them. If the website gets fixed, I will put the old code back!
+* Edit 05/06/2023: Code for webscraping Berkeley was changed since the start of the project. This is because the original website split the data table into 3. The new code scrapes all 3 tables and combines/cleans them. If the website gets fixed, I will put the old code back!
