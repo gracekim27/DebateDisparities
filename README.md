@@ -8,3 +8,6 @@ The question we wanted to answer with our project was, what is the difference in
 
 **Methodology:** First, we will take initial counts of public vs. private school attendance at tournaments to gauge representation. Next, we will start our initial mean comparisons and to get an initial understanding of our data. Then, we will switch our analysis to be tournament by tournament and round by round. We will then find the difference in round average speaks and find the 95% and 99% confidence intervals for the difference between private and public schools. We will then run these tests again using Z-score to try and account for judge biases.
 
+
+
+* Edit 05/06/2023: * Code for webscraping Berkeley was changed since the start of the project. This is because the original website split the data table into 3. The new code scrapes all 3 tables and combines/cleans them. If the website gets fixed, I will put the old code back!
